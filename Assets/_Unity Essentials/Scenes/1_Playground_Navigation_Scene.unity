@@ -3936,17 +3936,17 @@ PrefabInstance:
     - target: {fileID: 7467947963672208420, guid: 14c61db565b4f4afb9a5c5113037f758,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.57
+      value: 17.546
       objectReference: {fileID: 0}
     - target: {fileID: 7467947963672208420, guid: 14c61db565b4f4afb9a5c5113037f758,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.88
+      value: -0.805
       objectReference: {fileID: 0}
     - target: {fileID: 7467947963672208420, guid: 14c61db565b4f4afb9a5c5113037f758,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.18424574
+      value: -0.167
       objectReference: {fileID: 0}
     - target: {fileID: 7467947963672208420, guid: 14c61db565b4f4afb9a5c5113037f758,
         type: 3}
@@ -6518,7 +6518,7 @@ PrefabInstance:
     - target: {fileID: 2612289448353309179, guid: 5190fbab6823c1644a54e9d5022d3dd3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.51
+      value: 6.458
       objectReference: {fileID: 0}
     - target: {fileID: 2612289448353309179, guid: 5190fbab6823c1644a54e9d5022d3dd3,
         type: 3}
@@ -6528,7 +6528,7 @@ PrefabInstance:
     - target: {fileID: 2612289448353309179, guid: 5190fbab6823c1644a54e9d5022d3dd3,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.21
+      value: -9.183
       objectReference: {fileID: 0}
     - target: {fileID: 2612289448353309179, guid: 5190fbab6823c1644a54e9d5022d3dd3,
         type: 3}
@@ -7579,7 +7579,7 @@ Transform:
   m_GameObject: {fileID: 2097341043358111734}
   serializedVersion: 2
   m_LocalRotation: {x: 0.707107, y: -0.00000032782555, z: 0.00000082864426, w: 0.7071066}
-  m_LocalPosition: {x: 1.14, y: 0.47, z: -0.08}
+  m_LocalPosition: {x: 1.179, y: 0.487, z: -0.036}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -10109,7 +10109,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7112201928143285634
 Transform:
   m_ObjectHideFlags: 0
